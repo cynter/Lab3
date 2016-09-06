@@ -1,0 +1,9 @@
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.pdb
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Properties.Resources.resources
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.GenerateResource.Cache
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.exe
+c:\users\cynthia\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.pdb
